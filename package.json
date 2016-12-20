@@ -1,0 +1,21 @@
+{
+  "name": "react-native-touch-visualizer",
+  "version": "0.0.1",
+  "keywords": [
+    "react-native",
+    "react",
+    "native",
+    "touch",
+    "react-component",
+    "react-native-component",
+    "touch-visualizer",
+    "mobile"
+  ],
+  "description": "Visualize touches and drags in React Native apps.",
+  "main": "TouchVisualizer.xcodeproj",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zach Gibson <zackgib@aol.com> (http://zachgibsondesign.com/)",
+  "license": "MIT"
+}
