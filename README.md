@@ -7,6 +7,6 @@
 ## Edit AppDelegate.m
 `#import "TouchVisualizer.h"`
 
-Change `self.window = [[TouchVisualizer alloc] initWithFrame:[UIScreen mainScreen].bounds];` to `self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];`
+Change `self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];` to `self.window = [[TouchVisualizer alloc] initWithFrame:[UIScreen mainScreen].bounds];`
 ### License
 License is MIT
