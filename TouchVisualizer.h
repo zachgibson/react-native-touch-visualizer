@@ -1,4 +1,4 @@
-#import "RCTBridgeModule.h"
+#import <React/RCTBridgeModule.h>
 #include <UIKit/UIKit.h>
 
 @protocol TouchVisualizerDelegate;
