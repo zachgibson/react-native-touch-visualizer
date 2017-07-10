@@ -3,7 +3,7 @@
 ## Install via npm
 `$ npm install --save react-native-touch-visualizer`
 ## Link it to your project
-`$ react-native link`
+`$ react-native link react-native-touch-visualizer`
 ## Edit AppDelegate.m
 `#import "TouchVisualizer.h"`
 
