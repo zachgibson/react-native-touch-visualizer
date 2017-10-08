@@ -1,12 +1,12 @@
 # React Native Touch Visualizer
 Customizable touch visualizer for app demos.  
-Supports multiple presses and works on native iOS components; e.g. Action Sheets.  
+Supports multiple presses and works on native iOS components; e.g. Share Sheets.  
 
 ![React Native touch visualizer demo](https://cloud.githubusercontent.com/assets/10658888/21396686/a9f3ae52-c766-11e6-9423-3c6d97b4843f.gif)
 
-## Install via npm
+## Install
 ```bash
-$ npm install react-native-touch-visualizer --save
+$ yarn add react-native-touch-visualizer
 ```
 
 ## Link it to your project
